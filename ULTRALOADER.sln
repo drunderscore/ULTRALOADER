@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ULTRALOADER", "ULTRALOADER\ULTRALOADER.csproj", "{CA4EDC61-4F1E-4BC5-AD9D-AA1491C227DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweakIt", "TweakIt\TweakIt.csproj", "{0A9D0413-94E7-41B4-BF82-024A9351B157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4EDC61-4F1E-4BC5-AD9D-AA1491C227DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4EDC61-4F1E-4BC5-AD9D-AA1491C227DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4EDC61-4F1E-4BC5-AD9D-AA1491C227DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4EDC61-4F1E-4BC5-AD9D-AA1491C227DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9D0413-94E7-41B4-BF82-024A9351B157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9D0413-94E7-41B4-BF82-024A9351B157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9D0413-94E7-41B4-BF82-024A9351B157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9D0413-94E7-41B4-BF82-024A9351B157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
